@@ -18,3 +18,10 @@ Dropped: 6 (no turn), 5 (two jokes), 4 (curtain gap is good but "absent all wint
 9. The sun: one star. Hid behind clouds all day, then came out at the exact angle of my monitor.
 
 Pick: 7. Universal, physical, never written as gravity's fault; "as advertised" reads straight and the fridge lands last. 8 leans on a call-centre metaphor (second joke); 9 is good but the glare grievance is commoner.
+
+## Round 3 (mock judge 6.5 on gemini-3.5: fridge felt predictable)
+10. Gravity: one star. Works quietly all day, then, just as I'm drifting off, drops me off a step that doesn't exist.
+11. Gravity: one star. Holds my phone perfectly steady all evening, then lowers it onto my face the moment I relax my grip in bed.
+
+Pick: 10. The falling-asleep jolt is universal, belongs to gravity alone, and the review reads straight until "doesn't exist". 11 is the familiar version.
+(10 revised: "Ignores me all day" -> "Works quietly all day"; gravity never ignores anyone, and the quiet-all-day setup makes the night jolt land harder.)
