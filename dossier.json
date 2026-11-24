@@ -1,4 +1,4 @@
 {
- "entry": "Water: one star. Left a glass by the bed overnight and by morning it tasted like a different, older water.",
- "main_ts": "import { mkdirSync, writeFileSync } from \"node:fs\";\nimport { join } from \"node:path\";\n\nconst review = \"Water: one star. Left a glass by the bed overnight and by morning it tasted like a different, older water.\";\n\nconst outDir = process.env.OUTPUT_DIR ?? \"/output\";\nmkdirSync(outDir, { recursive: true });\nwriteFileSync(join(outDir, \"entry.txt\"), review, \"utf8\");\n"
+ "entry": "Gravity: one star. Pulls everything I drop straight down, as advertised, then lets it roll under the fridge.",
+ "main_ts": "import { mkdirSync, writeFileSync } from \"node:fs\";\nimport { join } from \"node:path\";\n\nconst review = \"Gravity: one star. Pulls everything I drop straight down, as advertised, then lets it roll under the fridge.\";\n\nconst outDir = process.env.OUTPUT_DIR ?? \"/output\";\nmkdirSync(outDir, { recursive: true });\nwriteFileSync(join(outDir, \"entry.txt\"), review, \"utf8\");\n"
 }

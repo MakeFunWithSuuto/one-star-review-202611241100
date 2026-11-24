@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const review = "Water: one star. Left a glass by the bed overnight and by morning it tasted like a different, older water.";
+const review = "Gravity: one star. Pulls everything I drop straight down, as advertised, then lets it roll under the fridge.";
 
 const outDir = process.env.OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

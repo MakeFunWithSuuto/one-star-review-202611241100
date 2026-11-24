@@ -11,3 +11,10 @@ Rubric order: essential + deadpan, sharpest true unwritten grievance, no winking
 
 Shortlist: 1 (math at 3 a.m., universal, never phrased as the product's fault), 2 (stale bedside water, very specific), 3.
 Dropped: 6 (no turn), 5 (two jokes), 4 (curtain gap is good but "absent all winter" is a second joke).
+
+## Round 2 (mock judge 6.6: water line felt low-novelty)
+7. Gravity: one star. Pulls everything I drop straight down, as advertised, then lets it roll under the fridge.
+8. Sleep: one star. Wait times are terrible, and the moment it finally connects, the alarm hangs up.
+9. The sun: one star. Hid behind clouds all day, then came out at the exact angle of my monitor.
+
+Pick: 7. Universal, physical, never written as gravity's fault; "as advertised" reads straight and the fridge lands last. 8 leans on a call-centre metaphor (second joke); 9 is good but the glare grievance is commoner.
